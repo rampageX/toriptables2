@@ -111,4 +111,4 @@ Upgrade to [toriptables3](https://github.com/ruped24/toriptables3/releases/tag/v
 
 ### [Installation Methods](https://github.com/ruped24/toriptables2/wiki/Optional-Installation-methods-for-toriptables2.py)
 
-### [Troubleshooting and FAQ](https://github.com/ruped24/toriptables2/wiki/Troubleshooting)
+### [Troubleshooting and FAQ.](https://github.com/ruped24/toriptables2/wiki/Troubleshooting)
